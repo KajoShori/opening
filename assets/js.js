@@ -1,1 +1,1 @@
-;onload=()=>{const c=setTimeout(()=>{document.body.classList.remove("not-loaded");clearTimeout(c);window.location.href="https://kajoshori.github.io"},100)};
+;onload=()=>{const c=setTimeout(()=>{document.body.classList.remove("not-loaded");clearTimeout(c);window.location.href="https://kajoshori.github.io"},1000)};
